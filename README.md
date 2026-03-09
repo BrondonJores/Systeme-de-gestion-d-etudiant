@@ -13,7 +13,7 @@ Ce projet propose une interface simple pour:
 
 L'application suit une architecture MVC legere:
 - `EtudiantServlet` pour la logique de controle
-- `EtudiantDAO` et `Db` pour l'acces aux donnees
+- `EtudiantDAO` et `DB` pour l'acces aux donnees
 - JSP (`index.jsp`, `etudiants.jsp`, `create.jsp`, `edit.jsp`, `show.jsp`) pour l'affichage
 
 ## Stack technique
